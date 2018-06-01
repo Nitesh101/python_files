@@ -1,0 +1,20 @@
+I333
+.S'hello wrodl'
+p0
+.(lp0
+S'dog'
+p1
+aS'cat'
+p2
+aS'lizard'
+p3
+a.(dp0
+S'job'
+p1
+S'astronaut'
+p2
+sS'name'
+p3
+S'bob'
+p4
+s.
